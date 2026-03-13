@@ -38,7 +38,7 @@ The preprocessing script will generate:
 
 ### Dataset Statistics
 
-![Dataset Statistics](../dataset_statistics.png)
+![Dataset Statistics](dataset_statistics.png)
 
 The visualization shows:
 - Post count distribution across timelines
